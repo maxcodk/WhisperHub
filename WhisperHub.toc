@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: WhisperHub
+## Notes: Tabbed whispers with persistent SQLite history (HearthDB). Replacement for WIM.
+## Version: 0.2.4
+## SavedVariables: WhisperHubDB
+## OptionalDeps: pfUI
+Core.lua
+UI.lua
+Skin.lua
